@@ -20,7 +20,7 @@ En dicha carta fechada del 13 de junio de 1976, Newton presentaba el enunciado d
 además de algunos ejemplos. Más tarde viendo el interes de Leibniz en en el método propuesto, el autor del mismo redacta otra carta en la que explica en detalle cómo ha descubierto la serie binómica. Newton utilizó los conceptos de exponentes generalizados mediante los cuales una expresión polinómica se transformaba en una serie infinita, para ello se ayudó utilizando los métodos de Wallis de interpolación y extrapolación a nuevos problemas. Así pudo demostrar que varias series ya existentes eran casos particulares, esto lo hizo bien directamente o bien por diferenciación o integración. 
  
 
-\begin{figure}[h]
+\begin{figure}[ht]
 \begin{center}
 \includegraphics[width=0.75\textwidth]{images/newtonleibniz1.eps}
 \caption{Isaac Newton y Gottfried Leibniz}

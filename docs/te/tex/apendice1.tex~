@@ -40,7 +40,7 @@ print a # Imprime los coeficientes del polinomio
 
 y = 0
 l = [ ]
-valorx = 0.43
+valorx = 3
 for i in range (0,5):
   li = 1
   if i == 0:

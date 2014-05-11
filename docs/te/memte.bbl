@@ -1,50 +1,28 @@
 \begin{thebibliography}{1}
 
-\bibitem{deWaard:2007}
-Anita de~Waard.
-\newblock A pragmatic structure for research articles.
-\newblock In {\em Proceedings of the 2nd international conference on Pragmatic
-  web}, ICPW '07, pages 83--89, New York, NY, USA, 2007. ACM.
+\bibitem{SCIENCIA}
+Solo Ciencia.
+\newblock
+  http://www.solociencia.com/cientificos/isaac-newton-teorema-binomio.htm.
 
-\bibitem{gibaldMLA:2009}
-J.~Gibaldi and Modern Language~Association of~America.
-\newblock {\em MLA handbook for writers of research papers}.
-\newblock Writing guides. Reference. Modern Language Association of America,
-  2009.
+\bibitem{UPM:}
+Universidad~Politécnica de~Madrid.
+\newblock http://ocw.upm.es/matematica-aplicada/
+  programacion-y-metodos-numericos/contenidos/TEMA\_3/Apuntes/InterpolacionOCW%
+.pdf.
 
-\bibitem{gopen:1990}
-G.D. Gopen and J.A. Swan.
-\newblock {The Science of Scientific Writing}.
-\newblock {\em American Scientist}, 78(6):550--558, 1990.
+\bibitem{ITTG}
+Instituto~Tecnológico de~Tuxtla~Gutiérrez.
+\newblock
+  https://sites.google.com/site/danaly7/unidad-5/polinomio-de-interpolacion-de%
+-newton.
 
-\bibitem{Lamport:LDP94}
-Leslie Lamport.
-\newblock {\em \LaTeX: A Document Preparation System}.
-\newblock Addison--Wesley Pub.\ Co., Reading, MA, 1986.
+\bibitem{ULPGC}
+ULPGC Informática.
+\newblock http://numat.net/tutor/newton.pdf.
 
-\bibitem{Leo:96}
-Coromoto Le\'on.
-\newblock {\em Dise\~no e implementaci\'on de lenguajes orientados al modelo
-  PRAM}.
-\newblock PhD thesis, 1996.
-
-\bibitem{869377}
-Guido Rossum.
-\newblock Python library reference.
-\newblock Technical report, Amsterdam, The Netherlands, The Netherlands, 1995.
-
-\bibitem{869369}
-Guido Rossum.
-\newblock Python reference manual.
-\newblock Technical report, Amsterdam, The Netherlands, The Netherlands, 1995.
-
-\bibitem{869378}
-Guido Rossum.
-\newblock Python tutorial.
-\newblock Technical report, Amsterdam, The Netherlands, The Netherlands, 1995.
-
-\bibitem{URL:XML}
-ACM~LaTeX Style.
-\newblock http://www.acm.org/publications/latex\_style/.
+\bibitem{ETSI}
+ETSI~Bilbao Purificación~González.
+\newblock http://www.ehu.es/pegonzalez/I.Teleco/Apuntes/tema5.pdf.
 
 \end{thebibliography}

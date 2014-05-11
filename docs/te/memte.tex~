@@ -143,7 +143,7 @@ En este proyecto, se ha llevado el campo matemático al campo informático, de la 
 % No funciona bien \markboth sin "twoside" en \documentclass, pero al
 % ponerlo se dan un montón de errores de underfull \vbox, con lo que no se
 % ha puesto.
-\markboth{I. González, S. González}{Polinomio interpolador de Newton}
+\markboth{S. González, I. González}{Polinomio interpolador de Newton}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Numeracion en romanos

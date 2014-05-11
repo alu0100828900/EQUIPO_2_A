@@ -1,0 +1,17 @@
+\beamer@endinputifotherversion {3.10pt}
+\beamer@sectionintoc {1}{Motivaci\IeC {\'o}n y objetivos}{8}{0}{1}
+\beamer@sectionintoc {2}{Fundamentos te\IeC {\'o}ricos}{10}{0}{2}
+\beamer@subsectionintoc {2}{1}{Historia}{12}{0}{2}
+\beamer@subsectionintoc {2}{2}{Teorema}{13}{0}{2}
+\beamer@sectionintoc {3}{Procedimiento experimental}{14}{0}{3}
+\beamer@subsectionintoc {3}{1}{Descripci\IeC {\'o}n de los experimentos}{17}{0}{3}
+\beamer@subsectionintoc {3}{2}{Resultados obtenidos}{21}{0}{3}
+\beamer@subsectionintoc {3}{3}{An\IeC {\'a}lisis de los resultados}{22}{0}{3}
+\beamer@sectionintoc {4}{Conclusiones}{23}{0}{4}
+\beamer@sectionintoc {5}{Ap\IeC {\'e}ndice 1. Programa Python}{24}{0}{5}
+\beamer@subsectionintoc {5}{1}{Almacenamiento de x}{25}{0}{5}
+\beamer@subsectionintoc {5}{2}{Almacenamiento de f(x)}{26}{0}{5}
+\beamer@subsectionintoc {5}{3}{Coeficientes}{27}{0}{5}
+\beamer@subsectionintoc {5}{4}{Partes literales del polinomio}{28}{0}{5}
+\beamer@subsectionintoc {5}{5}{Valores}{29}{0}{5}
+\beamer@sectionintoc {6}{Bibliograf\IeC {\'\i }a}{30}{0}{6}

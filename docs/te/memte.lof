@@ -1,9 +1,11 @@
 \select@language {spanish}
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces $f(x) = e ^ x$}}{2}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Isaac Newton y Gottfried Leibniz}}{4}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces F\'ormula diferencias divididas}}{7}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Ejemplo de figura}}{4}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Ejemplo de figura con gr\'afico}}{4}
-\addvspace {10\p@ }
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Terminal}}{13}
 \addvspace {10\p@ }

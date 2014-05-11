@@ -23,7 +23,7 @@ Los experimentos han sido realizados en un ordenador Packard Bell Atom N2600, pr
 Sus dimensiones son 35,8 x 23,8 x 7,6 cm y tiene un peso de 2,1 kg.
 Con 10,1 pulgadas y una tarjeta gráfica Intel, la batería tiene una duración aproximada de 8 horas.
 El Sistema Operativo es Bardinux 3.2.60-generic, una adaptación de la distribución de Linux "Kubuntu".
-El programa se ha elaborado en el editor de textos Kate, un paquete incorporado en Bardinux, se compila desde la Terminal, se ejecuta con Python y el documento PDF es visible  a través del programa Okular.  
+El programa se ha elaborado en el editor de textos Kate, un paquete incorporado en Bardinux y se compila desde la Terminal, ejecutándose con Python, siendo visible el documento PDF a través del programa Okular.  
 
 
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

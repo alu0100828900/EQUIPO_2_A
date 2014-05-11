@@ -5,12 +5,12 @@
 \begin{footnotesize}
 \begin{verbatim}
 
-El cálculo del polinomio de interpolación se simplifica cuando los nodos están
+El calculo del polinomio de interpolacion se simplifica cuando los nodos están
 igualmente espaciados.
 
 En este caso el polinomio se calcula utilizando el concepto de diferencia finita.
 
-Definición: Diferencia finita progresiva.
+Definicion: Diferencia finita progresiva.
 Se define como diferencia finita progresiva de una funcion f(x) en un punto y 
 su valor es la diferencia entre la imagen del segundo valor menos la del primero.
 

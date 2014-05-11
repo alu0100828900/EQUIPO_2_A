@@ -66,6 +66,5 @@ print '        '
 real = e**valorx
 print 'Valor de f(0.43) = e^(0.43) : %.35f' %real # Imprime el valor real de la función con el valor de x
 print '        ' 
-print 'Error cometido en la aproximación del polinomio: %.35f' %(abs(valorpol-real)) 
-# Imprime el valor absoluto del error cometido con el polinomio
+print 'Error cometido en la aproximación del polinomio: %.35f' %(abs(valorpol-real)) # Imprime el valor absoluto del error cometido con el polinomio
 print '        ' 

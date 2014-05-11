@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2014.4.4)  4 APR 2014 10:11
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2014.4.4)  9 MAY 2014 18:37
 entering extended mode
  %&-line parsing enabled.
 **memte.tex
@@ -140,7 +140,14 @@ LaTeX Info: Redefining \addtolength on input line 77.
 \msafam=\mathgroup4
 \msbfam=\mathgroup5
 \eufmfam=\mathgroup6
-) (./memte.aux)
+) (./memte.aux
+
+LaTeX Warning: Label `fig:1' multiply defined.
+
+
+LaTeX Warning: Label `tab' multiply defined.
+
+)
 \openout1 = `memte.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
@@ -156,21 +163,28 @@ LaTeX Font Info:    ... okay on input line 87.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 87.
 LaTeX Font Info:    ... okay on input line 87.
 File: images/logotipo-secundario-ULL.eps Graphic file (type eps)
-
-<images/logotipo-secundario-ULL.eps>
+ <images/logotipo-secundario-ULL.eps>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 111.
+(Font)              <24.88> on input line 111.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 111.
+(Font)              <20.74> on input line 111.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 114.
+(Font)              <17.28> on input line 111.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 114.
+(Font)              <14.4> on input line 114.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 114.
+(Font)              <7> on input line 114.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 117.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 117.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 117.
  [1
 
 ] [2
+
+] [1] [2
 
 ] (./memte.toc)
 \tf@toc=\write3
@@ -178,7 +192,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [1
 
-] [2
+]
+[2
 
 ] (./memte.lof)
 \tf@lof=\write4
@@ -198,44 +213,117 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ]
 Cap\'{\i }tulo 1.
-(./tex/cap1.tex) [1
+(./tex/cap1.tex
+File: images/funcion.eps Graphic file (type eps)
+ <images/funcion.eps>
 
-]
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[1
+
+]) [2]
 Cap\'{\i }tulo 2.
-(./tex/cap2.tex) [2
+(./tex/cap2.tex
+File: images/newtonleibniz1.eps Graphic file (type eps)
+ <images/newtonleibniz1.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3
 
 ]
+[4] (./tables/tabla.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 5.
+)) [5]
 Cap\'{\i }tulo 3.
-(./tex/cap3.tex
-File: images/figura1.eps Graphic file (type eps)
- <images/figura1.eps> (./tables/table.tex)
-File: images/imagen1.eps Graphic file (type eps)
- <images/imagen1.eps>) [3
+(./tex/cap3.tex [6
 
-] [4]
+] (./tables/table.tex)
+File: images/diferencias.eps Graphic file (type eps)
+ <images/diferencias.eps>
+Overfull \hbox (75.08366pt too wide) in paragraph at lines 43--44
+ [] 
+ []
+
+[7]) [8]
 Cap\'{\i }tulo 4.
-(./tex/cap4.tex) [5
+(./tex/cap4.tex) [9
 
-] [6
+] [10
 
 ]
 Ap\'{e}ndice A.
-(./tex/apendice1.tex) [7
+(./tex/apendice1.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11
 
 ]
+Overfull \hbox (26.80339pt too wide) in paragraph at lines 63--63
+[]\OT1/cmtt/m/n/9 print '%.35f' %(e**valorx)  #Imprime el valor real de la func
+i^^Son con el valor de x que se asigna[] 
+ []
+
+[12]
+File: images/terminal.eps Graphic file (type eps)
+ <images/terminal.eps>) [13]
 Ap\'{e}ndice B.
-(./tex/apendice2.tex) (./memte.bbl [8
+(./tex/apendice2.tex
+Overfull \hbox (26.80339pt too wide) in paragraph at lines 19--19
+[]\OT1/cmtt/m/n/9 Esta es la diferencia finita de primer orden. Del mismo modo,
+ se calculan las de orden superior.[] 
+ []
 
-]) [9
+) (./memte.bbl [14
 
-] (./memte.aux) ) 
+]
+Underfull \hbox (badness 10000) in paragraph at lines 4--7
+[]\OT1/cmr/m/n/10.95 Solo Cien-cia.  http://www.solociencia.com/cientificos/isa
+ac-newton-teorema-
+ []
+
+
+Underfull \hbox (badness 3646) in paragraph at lines 9--13
+[]\OT1/cmr/m/n/10.95 Universidad Polit^^Secni-ca de Madrid.  http://ocw.upm.es/
+matematica-aplicada/
+ []
+
+
+Overfull \hbox (27.22661pt too wide) in paragraph at lines 9--13
+\OT1/cmr/m/n/10.95 programacion-y-metodos-numericos/contenidos/TEMA[]3/Apuntes/
+InterpolacionOCW.pdf. 
+ []
+
+
+Overfull \hbox (13.00069pt too wide) in paragraph at lines 15--19
+[]\OT1/cmr/m/n/10.95 Instituto Tec-nol^^Sogi-co de Tuxt-la Guti^^Serrez.  https
+://sites.google.com/site/danaly7/unidad-
+ []
+
+
+Overfull \hbox (50.96065pt too wide) in paragraph at lines 25--27
+[]\OT1/cmr/m/n/10.95 ETSI Bil-bao Pu-rifi-caci^^Son Gonz^^Salez.  http://www.eh
+u.es/pegonzalez/I.Teleco/Apuntes/tema5.pdf. 
+ []
+
+) [15
+
+] (./memte.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 1771 strings out of 495062
- 21446 string characters out of 1182645
- 76798 words of memory out of 3000000
- 4902 multiletter control sequences out of 15000+50000
- 13237 words of font info for 48 fonts, out of 3000000 for 9000
+ 1795 strings out of 495062
+ 21854 string characters out of 1182645
+ 78798 words of memory out of 3000000
+ 4922 multiletter control sequences out of 15000+50000
+ 15942 words of font info for 57 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 25i,8n,27p,208b,286s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,9n,27p,1020b,432s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on memte.dvi (17 pages, 16936 bytes).
+Output written on memte.dvi (25 pages, 33476 bytes).

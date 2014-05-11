@@ -1,0 +1,20 @@
+%--------------------------------------------------------------------------
+\begin{table}[!ht]
+\begin{huge}
+\begin{center}
+\begin{tabular}{|c|c|} 
+\hline
+$a_i$ & Diferencias\\ \hline
+$a_0$ & $f[x_0]=f(x_0)$   \\ \hline
+$a_1$ & $f[x_0,x_1]=\frac{f[x_1]-f[x_0]}{x_1-x_0}$  \\ \hline
+$a_2$ & $f[x_0,x_1,x_2]=\frac{f[x_1,x_2]-f[x_0,x_1]}{x_2-x_0}$  \\ \hline
+$a_3$ & $f[x_0,x_1,x_2,x_3]=\frac{f[x_1,x_2,x_3]-f[x_0,x_1,x_2]}{x_3-x_0}$   \\ \hline
+$a_4$ & $f[x_0,x_1,x_2,x_3,x_4]=\frac{f[x_1,x_2,x_3,x_4]-f[x_0,x_1,x_2,x_3]}{x_4-x_i}$ \\ \hline
+
+
+\end{tabular}
+\end{center}
+\end{huge}
+\caption{Equivalencia de $a_i$ con las diferencias divididas}
+\label{tab}
+\end{table}
